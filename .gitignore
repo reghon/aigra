@@ -1,0 +1,58 @@
+# Dependency folders
+node_modules/
+.pnpm/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sw?
+
+# Environment files
+.env
+.env.*.local
+
+# Optional lockfiles (pilih sesuai package manager)
+package-lock.json
+yarn.lock
+# pnpm-lock.yaml  # Uncomment jika TIDAK ingin melacak lockfile pnpm
+
+# Testing
+coverage/
+jest-cache/
+jest-config.json
+
+# Misc
+*.local
+*.log
+*.tgz
+
+# Vite / Webpack cache
+.cache/
+vite.config.ts
+
+# TypeScript
+*.tsbuildinfo
+
+# Lint cache
+.eslintcache
+
+# Storybook
+.out/
+storybook-static/
+
+# VS Code settings (optional)
+.vscode/
