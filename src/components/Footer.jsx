@@ -1,5 +1,5 @@
-import React from 'react';
-import { Wheat } from 'lucide-react';
+import React from "react";
+import { Wheat } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -15,14 +15,22 @@ const Footer = () => {
 
         {/* Kontak */}
         <div className="text-center text-gray-300 space-y-1">
-          <p>Email: <a href="mailto:aigraindonesia@gmail.com" className="hover:text-green-400 transition-colors">aigraindonesia@gmail.com</a></p>
-          <p>HP: <a href="tel:085771480820" className="hover:text-green-400 transition-colors">0857 7148 0820</a></p>
+          <p>
+            Email:{" "}
+            <a href="mailto:aigraindonesia@gmail.com" className="hover:text-green-400 transition-colors">
+              aigraindonesia@gmail.com
+            </a>
+          </p>
+          <p>
+            HP:{" "}
+            <a href="tel:085771480820" className="hover:text-green-400 transition-colors">
+              0857 7148 0820
+            </a>
+          </p>
         </div>
 
         {/* Copyright */}
-        <p className="text-gray-500 text-sm mt-4">
-          © 2024 Aigra. Semua hak cipta dilindungi.
-        </p>
+        <p className="text-gray-500 text-sm mt-4">© 2025 Aigra. Semua hak cipta dilindungi.</p>
       </div>
     </footer>
   );

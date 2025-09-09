@@ -68,7 +68,7 @@ const SolutionSection = () => {
             <span className="block gradient-text">Aigra</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Teknologi pengeringan pintar yang menggabungkan IoT, AI, dan energi terbarukan untuk mengoptimalkan proses pasca panen.
+            Teknologi pengeringan pintar yang menggabungkan IoT dan AI untuk mengoptimalkan proses pasca panen
           </p>
         </motion.div>
 
@@ -97,7 +97,7 @@ const SolutionSection = () => {
                 Teknologi Terdepan untuk Hasil Optimal
               </h3>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Aigra menghadirkan revolusi dalam industri pasca panen dengan teknologi yang telah terbukti meningkatkan efisiensi dan kualitas hasil pertanian.
+                Aigra menghadirkan revolusi dalam industri pasca panen dengan teknologi yang telah terbukti meningkatkan efisiensi dan kualitas hasil pertanian
               </p>
             </div>
 
