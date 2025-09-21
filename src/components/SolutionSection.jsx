@@ -82,7 +82,7 @@ const SolutionSection = () => {
             <img  
               alt="Sistem pengeringan Aigra dengan teknologi IoT"
               className="w-full h-auto rounded-2xl shadow-2xl"
-              src="/public/AIGRA_PERTAMUDA 2025.jpg" />
+              src="/AIGRA_PERTAMUDA 2025.jpg" />
           </motion.div>
 
           <motion.div

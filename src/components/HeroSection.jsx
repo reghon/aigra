@@ -87,7 +87,7 @@ const HeroSection = ({ heroY, scrollToSection, handleCTAClick }) => {
               <img  
                 alt="Teknologi pengeringan AgriDry modern"
                 className="w-full h-auto rounded-2xl shadow-2xl"
-                src="/public/jagung.jpg" />
+                src="/jagung.jpg" />
             </div>
           </motion.div>
         </div>
