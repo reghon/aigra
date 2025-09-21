@@ -8,7 +8,7 @@ const Footer = () => {
         {/* Logo + Nama */}
         <div className="flex items-center space-x-3">
           <div className="w-12 h-12 bg-gradient-to-br rounded-xl flex items-center justify-center">
-            <img src="/src/img/logoputih.png" alt="" />
+            <img src="/public/logoputih.png" alt="" />
           </div>
           <span className="text-2xl font-bold">Aigra</span>
         </div>

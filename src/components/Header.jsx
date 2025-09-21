@@ -30,7 +30,7 @@ const Header = ({
             className="flex items-center space-x-3"
           >
             <div className="w-10 h-10 bg-gradient-to-br rounded-xl flex items-center justify-center">
-              <img src="/src/img/logohijau.png" alt="" />
+              <img src="/public/logohijau.png" alt="" />
             </div>
             <span className="text-2xl font-bold gradient-text">Aigra</span>
           </motion.div>
